@@ -1,10 +1,12 @@
 {
-    "name": "laravel/laravel",
+    "name": "smartystudios/smartysite",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Smarty Site",
     "keywords": [
         "framework",
-        "laravel"
+        "laravel",
+        "Smarty",
+        "Site"
     ],
     "license": "MIT",
     "require": {
